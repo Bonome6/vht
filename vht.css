@@ -1,0 +1,90 @@
+header{
+    text-align:center;
+    padding :top;
+}
+body{
+    margin-left:25px;
+    margin-right:25px;
+    font-weight :500;
+    font-size:18px;
+    display :grid;
+    grid:1fr;
+}
+img{
+    border-radius:100%;
+    display :50%;
+    border:none;
+    width:50%;
+    height :50%;
+}
+h1{
+  padding-top:0;  
+  padding-bottom:30px;
+}
+.eee,#ff,#a,#b,#c,#d,#e,#f,#h,#i,#j,#k,#l,#m,#n,#t,#household__1,#o,#p,#q,#r,#s,#u,#v,#w,#x{
+display:inline-block;
+   width:500px;
+   height :30px;
+   border:none;
+   opacity:0.8;
+}   
+#text__1{
+    padding-right:15px;
+}
+.container__2{
+    
+    #eee{
+        padded-right:20px;
+    }
+}
+#ff{
+    width:725px;
+    padding-right:12px;
+}
+#a{
+    padding-right:188px;
+}
+#b{
+     padding-right:227px;
+}
+#c{
+     padding-right:176px;
+}
+#d{
+     padding-right:217px;
+}
+#e{
+     padding-right:168px;
+}
+#f{
+     padding-right:238px;
+}
+#household__1{
+    padding-right:20px;
+    width:345px;
+}
+#household{
+    padding-left:50px;
+}
+#h,#i,#j,#k,#l,#m,#n,#li,#me,#not{
+  padding-right:245px;  
+  height :50px;
+  padding-left:15px;  
+  border:none;
+#p__2{
+    padding-top:35px;
+}
+#not{
+    width :10;
+  height :100px;
+  padding-left:15px; 
+}
+#li{
+    display:flex;
+    flex:1;
+}
+
+.my_button{
+    background-color: gray;
+    color:red;
+}
